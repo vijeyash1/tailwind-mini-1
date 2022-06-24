@@ -1,0 +1,13 @@
+1.npm init -y 
+
+this command will create a package json file manifest which contains 
+the dependancy that we install
+
+
+2.npm i -D tailwindcss
+
+this command will install tailwindcss as developement dependancy
+
+3. npx tailwindcss init
+this command will create a tailwind config file.
+
